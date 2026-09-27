@@ -1,0 +1,12 @@
+{
+  "name": "Daymark Habit Tracker",
+  "short_name": "Daymark",
+  "description": "A calm, thoughtful space to build habits that last.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f6f2",
+  "theme_color": "#f5f6f2",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
